@@ -21,7 +21,7 @@ The **Resume Optimizer** is a smart tool that analyzes and enhances resumes to i
 
 ## 🔑 API Key Setup
 
-> ⚠️ Before running the servers, you **must insert your Google API Key ** inside `resume-optimizer-frontend/.env`.
+> ⚠️ Before running the program, you **must insert your Google API Key ** inside `resume-optimizer-frontend/.env`.
 
 Open the file and update the following variable:
 ```python
