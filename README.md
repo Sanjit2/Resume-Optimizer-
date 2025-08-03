@@ -19,3 +19,10 @@ The **Resume Optimizer** is a smart tool that analyzes and enhances resumes to i
 - 📌 **Custom Job Description Matching**  
   Tailors optimization suggestions based on the job description you provide.
 
+## 🔑 API Key Setup
+
+> ⚠️ Before running the servers, you **must insert your Google API Key ** inside `resume-optimizer-frontend/.env`.
+
+Open the file and update the following variable:
+```python
+REACT_APP_GEMINI_API_KEY = "YOUR_GOOGLE_API_KEY"
