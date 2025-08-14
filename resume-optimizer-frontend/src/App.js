@@ -188,7 +188,7 @@ export default function App() {
       // IMPORTANT: For local development, replace these placeholder values with your actual Firebase project config.
       // You can get this from your Firebase project settings -> Project settings -> General -> Your apps -> Firebase SDK snippet (Config).
       const localFirebaseConfig = {
-        apiKey: "AIzaSyBU_6pOesSKNIZfN_hfV0J43uRn_VCEbrA",
+        apiKey: "Enter your firebase apiKey",
         authDomain: "resume-8a2e3.firebaseapp.com",
         projectId: "resume-8a2e3",
         storageBucket: "resume-8a2e3.firebasestorage.app",
